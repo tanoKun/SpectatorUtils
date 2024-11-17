@@ -1,0 +1,14 @@
+name: SpectatorUtil
+version: '${project.version}'
+main: com.github.tanokun.spectatorutil.SpectatorUtil
+api-version: '1.19'
+
+commands:
+  spectator:
+    aliases:
+      - spec
+    permission: spectator.ui
+
+permissions:
+  spectator.ui:
+    default: op

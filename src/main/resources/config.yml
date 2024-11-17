@@ -1,0 +1,5 @@
+tag: spectator
+
+command:
+  register: "function werewolf:admin/set_spectator"
+  unregister: "function werewolf:admin/remove_spectator"
