@@ -1,7 +1,7 @@
 name: SpectatorUtil
 version: '${project.version}'
 main: com.github.tanokun.spectatorutil.SpectatorUtil
-api-version: '1.19'
+api-version: '1.18'
 
 commands:
   spectator:
